@@ -2,12 +2,14 @@
 Closed Source - Open C# Libraries
 
 //Documentation Incoming...
+<br>
 //References Included...
 
-Database Library - v1
-Filing Library - v1
-Session Library - v1
+Database Library - v1 <br>
+Filing Library - v1 <br> 
+Session Library - v1 <br>
 
-Updated: 28th of July 18'
-Author: Shahzu
-Email: mshehbaz@live.com
+
+Updated: 28th of July 18' <br>
+Author: Shahzu <br>
+Email: mshehbaz@live.com <br>
